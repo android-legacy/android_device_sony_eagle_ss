@@ -25,9 +25,8 @@
    "revision": "android-5.0"
  },
  {
-   "remote": "omnirom",
-   "repository": "android_hardware_qcom_media-caf-bfam",
-   "target_path": "hardware/qcom/media-caf-bfam",
+   "repository": "android_device_sony_qcom-common",
+   "target_path": "device/sony/qcom-common",
    "revision": "android-5.0"
  },
  {
@@ -38,13 +37,14 @@
  },
  {
    "remote": "omnirom",
-   "repository": "android_hardware_qcom_audio-caf-bfam",
-   "target_path": "hardware/qcom/audio-caf-bfam",
+   "repository": "android_hardware_qcom_media-caf-bfam",
+   "target_path": "hardware/qcom/media-caf-bfam",
    "revision": "android-5.0"
  },
  {
-   "repository": "android_device_sony_qcom-common",
-   "target_path": "device/sony/qcom-common",
+   "remote": "omnirom",
+   "repository": "android_hardware_qcom_audio-caf-bfam",
+   "target_path": "hardware/qcom/audio-caf-bfam",
    "revision": "android-5.0"
  },
  {
